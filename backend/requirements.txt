@@ -1,0 +1,4 @@
+uvicorn
+joblib
+pandas
+fastapi[standard]
